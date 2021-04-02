@@ -1,0 +1,37 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>testing_object_detection920.png</filename>
+    <size>
+        <width>600</width>
+        <height>364</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Dented Ping Pong Ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>246</xmin>
+            <ymin>108</ymin>
+            <xmax>389</xmax>
+            <ymax>251</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hands</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>19</ymin>
+            <xmax>320</xmax>
+            <ymax>364</ymax>
+        </bndbox>
+    </object>
+</annotation>

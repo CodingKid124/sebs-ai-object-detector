@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>testing_object_detection2916.png</filename>
+    <size>
+        <width>600</width>
+        <height>332</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Hands</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>180</xmin>
+            <ymin>36</ymin>
+            <xmax>354</xmax>
+            <ymax>297</ymax>
+        </bndbox>
+    </object>
+</annotation>

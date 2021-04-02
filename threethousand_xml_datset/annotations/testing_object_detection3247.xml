@@ -1,0 +1,37 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>testing_object_detection3247.png</filename>
+    <size>
+        <width>461</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Bucket Hat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>52</xmin>
+            <ymin>36</ymin>
+            <xmax>388</xmax>
+            <ymax>321</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Human Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>109</xmin>
+            <ymin>141</ymin>
+            <xmax>340</xmax>
+            <ymax>343</ymax>
+        </bndbox>
+    </object>
+</annotation>

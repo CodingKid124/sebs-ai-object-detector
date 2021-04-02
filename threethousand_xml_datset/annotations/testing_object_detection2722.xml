@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>testing_object_detection2722.png</filename>
+    <size>
+        <width>600</width>
+        <height>397</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Phone</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>32</xmin>
+            <ymin>88</ymin>
+            <xmax>566</xmax>
+            <ymax>376</ymax>
+        </bndbox>
+    </object>
+</annotation>

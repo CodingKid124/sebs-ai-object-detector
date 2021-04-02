@@ -1,0 +1,50 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>testing_object_detection572.png</filename>
+    <size>
+        <width>476</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Cricket Ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>136</xmin>
+            <ymin>116</ymin>
+            <xmax>334</xmax>
+            <ymax>310</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Cricket Ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>39</xmin>
+            <ymin>297</ymin>
+            <xmax>243</xmax>
+            <ymax>498</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Cricket Ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>250</xmin>
+            <ymin>289</ymin>
+            <xmax>458</xmax>
+            <ymax>499</ymax>
+        </bndbox>
+    </object>
+</annotation>

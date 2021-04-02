@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>testing_object_detection546.png</filename>
+    <size>
+        <width>600</width>
+        <height>566</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Cricket Ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>83</xmin>
+            <ymin>52</ymin>
+            <xmax>524</xmax>
+            <ymax>518</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>testing_object_detection3346.png</filename>
+    <size>
+        <width>600</width>
+        <height>465</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Bucket Hat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>56</xmin>
+            <ymin>77</ymin>
+            <xmax>551</xmax>
+            <ymax>410</ymax>
+        </bndbox>
+    </object>
+</annotation>

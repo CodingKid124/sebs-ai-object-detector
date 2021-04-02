@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>testing_object_detection2501.png</filename>
+    <size>
+        <width>600</width>
+        <height>467</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Soccerball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>140</xmin>
+            <ymin>57</ymin>
+            <xmax>464</xmax>
+            <ymax>381</ymax>
+        </bndbox>
+    </object>
+</annotation>

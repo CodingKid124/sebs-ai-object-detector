@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>testing_object_detection1429.png</filename>
+    <size>
+        <width>600</width>
+        <height>461</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Rugby Ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>106</xmin>
+            <ymin>107</ymin>
+            <xmax>494</xmax>
+            <ymax>375</ymax>
+        </bndbox>
+    </object>
+</annotation>
